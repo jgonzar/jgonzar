@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jgonzar
 - 👀 I’m interested in web and game devolpment
-- 🌱 I’m currently learning html, css and javascript
+- 🌱 I’m currently learning Angular and MongoDB
 - 💞️ I’m looking to collaborate on web devolpment projects 
 - 📫 How to reach me jgonzar@gmail.com
 
