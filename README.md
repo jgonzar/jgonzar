@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @jgonzar
-- 👀 I’m interested in web and game devolpment
-- 🌱 I’m currently learning Angular and MongoDB
-- 💞️ I’m looking to collaborate on web devolpment projects 
-- 📫 How to reach me jgonzar@gmail.com
 
 <!---
 jgonzar/jgonzar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
